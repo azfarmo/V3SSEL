@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/V3SSEL/static/css/main.f154ae49.chunk.css",
+    "main.js": "/V3SSEL/static/js/main.02824eb0.chunk.js",
+    "main.js.map": "/V3SSEL/static/js/main.02824eb0.chunk.js.map",
+    "runtime-main.js": "/V3SSEL/static/js/runtime-main.da370ba9.js",
+    "runtime-main.js.map": "/V3SSEL/static/js/runtime-main.da370ba9.js.map",
+    "static/css/2.516d9e09.chunk.css": "/V3SSEL/static/css/2.516d9e09.chunk.css",
+    "static/js/2.1be96d06.chunk.js": "/V3SSEL/static/js/2.1be96d06.chunk.js",
+    "static/js/2.1be96d06.chunk.js.map": "/V3SSEL/static/js/2.1be96d06.chunk.js.map",
+    "static/js/3.abfc6fef.chunk.js": "/V3SSEL/static/js/3.abfc6fef.chunk.js",
+    "static/js/3.abfc6fef.chunk.js.map": "/V3SSEL/static/js/3.abfc6fef.chunk.js.map",
+    "index.html": "/V3SSEL/index.html",
+    "precache-manifest.07c620b004d0971db72e9608fca673fb.js": "/V3SSEL/precache-manifest.07c620b004d0971db72e9608fca673fb.js",
+    "service-worker.js": "/V3SSEL/service-worker.js",
+    "static/css/2.516d9e09.chunk.css.map": "/V3SSEL/static/css/2.516d9e09.chunk.css.map",
+    "static/css/main.f154ae49.chunk.css.map": "/V3SSEL/static/css/main.f154ae49.chunk.css.map",
+    "static/js/2.1be96d06.chunk.js.LICENSE.txt": "/V3SSEL/static/js/2.1be96d06.chunk.js.LICENSE.txt",
+    "static/media/stylesheet.css": "/V3SSEL/static/media/bg-home-banner.7719f4e3.jpg",
+    "static/media/chart.png": "/V3SSEL/static/media/chart.89e5a37a.png",
+    "static/media/home-image2.svg": "/V3SSEL/static/media/home-image2.566b749a.svg",
+    "static/media/home-image3.svg": "/V3SSEL/static/media/home-image3.224c5e89.svg",
+    "static/media/home-image4.svg": "/V3SSEL/static/media/home-image4.cd565027.svg",
+    "static/media/logo.png": "/V3SSEL/static/media/logo.f73cf5bb.png",
+    "static/media/modal.png": "/V3SSEL/static/media/modal.24009cab.png",
+    "static/media/partner.png": "/V3SSEL/static/media/partner.cd502443.png",
+    "static/media/team-member.png": "/V3SSEL/static/media/team-member.bd2dda22.png",
+    "static/media/team-member2.png": "/V3SSEL/static/media/team-member2.95724e7b.png",
+    "static/media/team.png": "/V3SSEL/static/media/team.58f6164d.png",
+    "static/media/team2.png": "/V3SSEL/static/media/team2.edcd467e.png",
+    "static/media/wave.svg": "/V3SSEL/static/media/wave.624d0240.svg",
+    "static/media/who.png": "/V3SSEL/static/media/who.a86e9871.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da370ba9.js",
+    "static/css/2.516d9e09.chunk.css",
+    "static/js/2.1be96d06.chunk.js",
+    "static/css/main.f154ae49.chunk.css",
+    "static/js/main.02824eb0.chunk.js"
+  ]
+}
